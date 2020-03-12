@@ -1,0 +1,10 @@
+C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\CString.dll
+C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\System.Core.dll
+C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\UnityEngine.dll
+C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\UnityEngine.xml
+C:\Users\QQ\Documents\U3dTest\Debug\obj\Release\Debug.csprojAssemblyReference.cache
+C:\Users\QQ\Documents\U3dTest\Debug\obj\Release\Debug.csproj.CopyComplete
+C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\Debugger.dll
+C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\Debugger.pdb
+C:\Users\QQ\Documents\U3dTest\Debug\obj\Release\Debugger.dll
+C:\Users\QQ\Documents\U3dTest\Debug\obj\Release\Debugger.pdb
