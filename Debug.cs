@@ -17,6 +17,14 @@ public static class Debug
 
     public static bool EnableDebugMode = true;
 
+    public static bool isDebugBuild
+    {
+        get
+        {
+            return UnityEngine.Debug.isDebugBuild;
+        }
+    }
+
     public static bool EnableLogFile = false;
 
     private static FileStream sm_logFileStream = null;
