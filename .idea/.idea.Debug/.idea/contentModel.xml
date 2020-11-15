@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\QQ\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\QQ\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Debug.369207558.00" t="ExcludeRecursive" />
+    <e p="E:\GithubSource\UnityDebug" t="IncludeRecursive">
+      <e p="AssertException.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConstStringTable.cs" t="Include" />
+      <e p="Debug.cs" t="Include" />
+      <e p="Debug.csproj" t="IncludeRecursive" />
+      <e p="Debug.sln" t="IncludeFlat" />
+      <e p="LuaInterface" t="Include">
+        <e p="Debugger.cs" t="Include" />
+        <e p="ExtensionMethods.cs" t="Include" />
+        <e p="ICmd.cs" t="Include" />
+        <e p="ILogger.cs" t="Include" />
+        <e p="StringBuilderCache.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

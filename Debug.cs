@@ -111,7 +111,7 @@ public static class Debug
     public static void Log(params object[] msg)
     {
         bd.Length = 0;
-        foreach(var tmp in msg)
+        foreach (var tmp in msg)
         {
             bd.Append(tmp.ToString());
         }
@@ -242,6 +242,16 @@ public static class Debug
         }
     }
 
+    public static void LogException(Exception ex, UnityEngine.Object target)
+    {
+        UnityEngine.Debug.LogException(ex, target);
+    }
+
+    public static void Assert(bool condition)
+    {
+        UnityEngine.Debug.Assert(condition);
+    }
+
     public static void Assert(bool condition, string msg)
     {
         if (!condition)
@@ -250,9 +260,39 @@ public static class Debug
         }
     }
 
+    public static void DrawLine(Vector3 pos1, Vector3 pos2)
+    {
+        UnityEngine.Debug.DrawLine(pos1, pos2);
+    }
+
+    public static void DrawLine(Vector3 pos1, Vector3 pos2, Color color)
+    {
+        UnityEngine.Debug.DrawLine(pos1, pos2, color);
+    }
+
+    public static void DrawLine(Vector3 pos1, Vector3 pos2, Color color, float duration)
+    {
+        UnityEngine.Debug.DrawLine(pos1, pos2, color, duration);
+    }
+
     public static void DrawLine(Vector3 pos1, Vector3 pos2, Color color, float duration, bool depthTest)
     {
         UnityEngine.Debug.DrawLine(pos1, pos2, color, duration, depthTest);
+    }
+
+    public static void DrawRay(Vector3 start, Vector3 dir, Color color)
+    {
+        UnityEngine.Debug.DrawRay(start, dir, color);
+    }
+
+    public static void Break()
+    {
+        UnityEngine.Debug.Break();
+    }
+
+    public static void LogAssertion(object msg)
+    {
+        UnityEngine.Debug.LogAssertion(msg);
     }
 
     private static void LogInternalFormat(LogLevel logLevel, string format, params object[] msg)

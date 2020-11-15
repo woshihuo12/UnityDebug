@@ -8,3 +8,9 @@ C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\Debugger.dll
 C:\Users\QQ\Documents\U3dTest\Debug\bin\Release\Debugger.pdb
 C:\Users\QQ\Documents\U3dTest\Debug\obj\Release\Debugger.dll
 C:\Users\QQ\Documents\U3dTest\Debug\obj\Release\Debugger.pdb
+E:\GithubSource\UnityDebug\obj\Release\Debugger.dll
+E:\GithubSource\UnityDebug\obj\Release\Debugger.pdb
+E:\GithubSource\UnityDebug\bin\Release\Debugger.dll
+E:\GithubSource\UnityDebug\bin\Release\Debugger.pdb
+E:\GithubSource\UnityDebug\bin\Release\System.Core.dll
+E:\GithubSource\UnityDebug\obj\Release\Debug.csproj.CopyComplete
